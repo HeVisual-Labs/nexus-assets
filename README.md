@@ -1,6 +1,6 @@
 # HeVisual Assets
 
-Binary asset repo for [HeVisual](https://github.com/codyhex/HeVisual). Mounted as a git submodule at `public/_assets/`.
+Source repo: [HeVisual-Labs/hevisual-assets](https://github.com/HeVisual-Labs/hevisual-assets). In the [HeVisual](https://github.com/HeVisual-Labs/HeVisual) app it is checked out as the git submodule at `public/_assets/`.
 
 ## Layout
 
